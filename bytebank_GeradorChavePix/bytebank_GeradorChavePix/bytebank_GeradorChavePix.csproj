@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Gerador de Chaves Aleatórias Pix</Title>
+    <Description>Esse pacote gera chaves Pix de maneira aleatória, utilizando recursos da estruta Guid.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="bytebank_GeradorChavePix">
+      <HintPath>bin\Debug\net6.0\bytebank_GeradorChavePix.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

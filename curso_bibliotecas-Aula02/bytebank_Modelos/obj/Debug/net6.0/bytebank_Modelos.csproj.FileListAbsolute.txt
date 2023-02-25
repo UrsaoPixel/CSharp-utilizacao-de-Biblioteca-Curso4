@@ -1,0 +1,12 @@
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\curso_bibliotecas-Aula02\bytebank_Modelos\bin\Debug\net6.0\bytebank_Modelos.deps.json
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\curso_bibliotecas-Aula02\bytebank_Modelos\bin\Debug\net6.0\bytebank_Modelos.dll
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\curso_bibliotecas-Aula02\bytebank_Modelos\bin\Debug\net6.0\bytebank_Modelos.pdb
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\curso_bibliotecas-Aula02\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\curso_bibliotecas-Aula02\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\curso_bibliotecas-Aula02\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\curso_bibliotecas-Aula02\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\curso_bibliotecas-Aula02\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\curso_bibliotecas-Aula02\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.dll
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\curso_bibliotecas-Aula02\bytebank_Modelos\obj\Debug\net6.0\refint\bytebank_Modelos.dll
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\curso_bibliotecas-Aula02\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.pdb
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\curso_bibliotecas-Aula02\bytebank_Modelos\obj\Debug\net6.0\ref\bytebank_Modelos.dll

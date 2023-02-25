@@ -1,0 +1,14 @@
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net6.0\bytebank_GeradorChavePix.deps.json
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net6.0\bytebank_GeradorChavePix.pdb
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix.dll
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\refint\bytebank_GeradorChavePix.dll
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix.pdb
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\ref\bytebank_GeradorChavePix.dll
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix.csproj.CopyComplete
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net6.0\bytebank_GeradorChavePix.xml
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Utilização de bibliotecas\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net6.0\bytebank_GeradorChavePix.xml
